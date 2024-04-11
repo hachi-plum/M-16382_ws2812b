@@ -20,3 +20,7 @@ python mov2color3216.py your_movie.mp4 input.txt
 ```bash
 python light3216_color.py input.txt
 ```
+
+![badapple!](images/badapple.png)
+
+![nyancat](images/nyancat.png)
