@@ -22,5 +22,3 @@ python light3216_color.py input.txt
 ```
 
 ![badapple!](images/badapple.png)
-
-![nyancat](images/nyancat.png)
